@@ -1,10 +1,10 @@
-<h2 align="left">Hello I'm Ichsan</h2>
+<h2 align="left">About Me</h2>
 
 ![Ichsan](image/header.png)
 
 ###
 
-<p align="left">My Skills</p>
+<h2 align="left">My Skills</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Let's connect with me:</p>
+<h2 align="left">Let's connect with me:</h2>
 
 ###
 
