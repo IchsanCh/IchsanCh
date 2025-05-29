@@ -1,8 +1,6 @@
 <h2 align="left">Hello I'm Ichsan</h2>
 
-###
-
-<h3 align="left">Fullstack Web Developer | Network Engineer</h3>
+![Ichsan](image/header.png)
 
 ###
 
