@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">My Social Media</h2>
+<h2 align="left">Contact Me</h2>
 
 ###
 
@@ -44,6 +44,9 @@
   </a>
   <a href="https://instagram.com/k21t7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:ichsanmuhammed01@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -70,7 +73,7 @@
 ###
 
 <div align="left">
-  <a href="paypal.me/sanchYT386" target="_blank">
+  <a href="https://paypal.com/paypalme/sanchYT386" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
 </div>
