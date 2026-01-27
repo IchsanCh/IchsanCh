@@ -69,17 +69,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/IchsanCh/IchsanCh/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">Donate me😋</h2>
-
-###
-
-<div align="left">
-  <a href="https://paypal.com/paypalme/sanchYT386" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-  </a>
-</div>
-
-###
