@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/IchsanCh/IchsanCh/refs/heads/main/image/header.png"  />
-</div>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
