@@ -34,7 +34,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=IchsanCh&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=IchsanCh&theme=vision-friendly-dark&hide_border=false" alt="Streak" />
+  <img src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=IchsanCh&theme=default" alt="Streak" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IchsanCh&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Language graph"  />
 </div>
 
